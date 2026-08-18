@@ -1,5 +1,7 @@
 # Guess_word_game
 <br>
+First you get an Welcome message by the interpreter.
+<br>
 This program selects a word randomly from given list.
 <br>
 Interpreter ask you to guess a word.
@@ -7,3 +9,5 @@ Interpreter ask you to guess a word.
 Give you the no. of letters in the word.
 <br>
 Also gives the correct letter and at the end when you get the word correctly it shows in how many attempts you guessed the word right.
+<br>
+at the end it says Game over.
